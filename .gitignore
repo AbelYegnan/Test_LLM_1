@@ -1,0 +1,22 @@
+# .gitignore
+
+# Cache HuggingFace — modèles trop lourds
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+
+# Outputs générés automatiquement
+outputs/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Données sensibles
+data
+
+# Cache HuggingFace local
+.cache/

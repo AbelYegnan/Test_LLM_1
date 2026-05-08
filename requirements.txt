@@ -1,0 +1,19 @@
+# Traitement PDF
+PyMuPDF
+
+# Science des données et ML
+numpy
+scipy
+scikit-learn
+matplotlib
+
+# Pour les LLM (version légère pour test)
+transformers
+torch
+sentencepiece
+
+# Utilitaires
+tqdm
+accelerate
+bitsandbytes
+pandas
